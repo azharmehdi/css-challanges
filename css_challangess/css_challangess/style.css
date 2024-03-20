@@ -1,0 +1,72 @@
+body{
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    font-size: 21px;
+}
+h1 {
+    font-size: 60px;
+    margin-bottom: 0;
+    font-weight: lighter;
+}
+
+h2 {
+    font-size: 42px;
+    margin-bottom: 0;
+    font-weight: lighter;
+}
+
+h3 {
+    font-size: 36px;
+    margin-bottom: 0;
+}
+.container {
+    width: 570px;
+    margin: 0 auto;
+    text-align: center;
+}
+h1 .bold-text{
+    font-size: 80px;
+}
+h2 .bold-text{
+    font-size: 60px;
+}
+.bold-text{
+    font-weight: bold;
+}
+a {
+    color: #99D930;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #131313;
+}
+.header {
+    padding: 100px 0;
+    background-color: #D7D7D7;
+}
+
+.about-me {
+    padding: 100px 0;
+    background-color: #FFEAEA;
+}
+
+.articles {
+    padding: 100px 0;
+    background-color: #EAF9FF;
+}
+head{
+    background-color: white;
+    padding-left: 90px;
+    padding-right:  90px; 
+    padding-top: 90px;
+    padding-bottom: 90px;
+
+}
+small {
+    font-size: 16px;
+}
+img{
+    height: 305px;
+    width: 295px;
+}
